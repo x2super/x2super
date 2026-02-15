@@ -18,7 +18,6 @@
   📫 kasawasamsung@gmail.com
 </p>
 
----
 
 <h2 align="center">🚀 All tech learning</h2>
 
